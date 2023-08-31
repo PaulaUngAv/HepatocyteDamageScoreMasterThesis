@@ -1,0 +1,3 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"MIRNA","mmu-let-7e-5p","MIRNA:mmu-let-7e-5p","false","0.0028969506242568868","2.5380589068657984","23","35","3","14711","COL27A1,MSI2,SCD1"
+"MIRNA","mmu-miR-155-5p","MIRNA:mmu-miR-155-5p","false","0.0031909140903323674","2.496084888253009","71","35","4","14711","PTPRJ,RORA,MSI2,LCOR"
